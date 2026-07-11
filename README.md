@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Nikan 👋
 
-<!--
-**nikan-khorsandi/nikan-khorsandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Exploring technology like an endless ocean — one project at a time.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a software developer passionate about building practical software that solves real-world problems. I enjoy exploring artificial intelligence, high-performance programming, and embedded systems while continuously expanding my technical skills. My goal is to create technology that makes people's lives simpler and more efficient.
+
+---
+
+## 💻 Tech Stack
+
+...
+
+---
+
+## 📌 Featured Projects
+
+...
+
+---
+
+## 🌱 Currently Learning
+
+...
+
+---
+
+## 🎯 Goals
+
+...
+
+---
+
+## 📫 Contact
+
+...
