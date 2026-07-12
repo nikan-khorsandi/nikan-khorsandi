@@ -56,11 +56,12 @@ I'm currently working on building high-quality projects that will be featured he
 - ⚙️ Advanced C++
 - 🔧 Building larger real-world projects
 
-## Goals
+## 🎯 Goals
 
-> Coming soon...
-
----
+- Build impactful open-source projects.
+- Strengthen my skills in AI and Software Engineering.
+- Contribute to meaningful real-world solutions.
+- Continuously improve as a developer.
 
 ## Contact
 
