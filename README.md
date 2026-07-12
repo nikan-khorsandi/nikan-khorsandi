@@ -18,9 +18,28 @@ I believe curiosity 💡, discipline, and continuous learning are the keys to be
 
 ## Tech Stack
 
-> Coming soon...
+## 💻 Tech Stack
 
----
+### Languages
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="C++"/>
+</p>
+
+### Embedded
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45" alt="Arduino"/>
+</p>
+
+### Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub"/>
+  <img width="12"/>
+  <img src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg" height="45" alt="GitHub Actions"/>
+</p>
 
 ## Featured Projects
 
