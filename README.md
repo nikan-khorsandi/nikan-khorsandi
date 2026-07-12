@@ -63,6 +63,6 @@ I'm currently working on building high-quality projects that will be featured he
 - Contribute to meaningful real-world solutions.
 - Continuously improve as a developer.
 
-## Contact
+## 📫 Contact
 
-> Coming soon...
+- GitHub: https://github.com/nikan-khorsandi
