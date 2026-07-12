@@ -1,4 +1,8 @@
-# Hi, I'm Nikan 
+# Hi, I'm Nikan 👋
+
+### Software Developer | Python • C++ • Arduino
+
+Building practical software, exploring AI, and creating technology that solves real-world problems.
 
 ## About Me
 
