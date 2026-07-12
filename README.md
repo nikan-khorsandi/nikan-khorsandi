@@ -43,9 +43,11 @@ I believe curiosity 💡, discipline, and continuous learning are the keys to be
 
 ## Featured Projects
 
-> Coming soon...
+## 📌 Featured Projects
 
----
+🚧 Coming soon...
+
+I'm currently working on building high-quality projects that will be featured here.
 
 ## Currently Learning
 
