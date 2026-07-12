@@ -49,11 +49,12 @@ I believe curiosity 💡, discipline, and continuous learning are the keys to be
 
 I'm currently working on building high-quality projects that will be featured here.
 
-## Currently Learning
+## 🌱 Currently Learning
 
-> Coming soon...
-
----
+- 🤖 Artificial Intelligence
+- 🗄️ SQL
+- ⚙️ Advanced C++
+- 🔧 Building larger real-world projects
 
 ## Goals
 
